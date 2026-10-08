@@ -1,0 +1,227 @@
+[
+  {
+    "source": "brand/floral-wordmark.png",
+    "sha256": "146cbaa36ab9715a6284ff51fb21a5fa0942106b36ea72dd5f4943b44ac85262",
+    "referenceOnly": false
+  },
+  {
+    "source": "home/sunlit-atelier.png",
+    "sha256": "db0c7fa2eb85a302f0965fddb1ed5f22c470a5506da42ea69e43776c649d4cab",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/pastel-signature-bouquet.png",
+    "sha256": "79815bc8e6838935e98ce78d338663649624e2c74b6b38fb76c8817bbca2612f",
+    "referenceOnly": false
+  },
+  {
+    "source": "decorative/botanical-outline.png",
+    "sha256": "9a11e4756de45c485cb389d9cc664cf8075eb68b8e0d1a702c37ecddf7acc77b",
+    "referenceOnly": false
+  },
+  {
+    "source": "decorative/rose-petal-scatter.png",
+    "sha256": "62040a13ef947ee1a203af7bbe85c670c630f24d144178454a5f4b631660c463",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/blush-serenity-studio.png",
+    "sha256": "f0381206ef2de0488afdcd1bd89a8079dc8ce4b552c4551615f59f93c2987012",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/sunlit-meadow-studio.png",
+    "sha256": "895a0a5450d73db61a3040eb15460cf9031270ad88d4d920089938cd69e5f9e7",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/everlasting-love-studio.png",
+    "sha256": "465d9de823e8e6d460258832e66340c1d29e9129cfc600e850e7201718a88176",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/pure-elegance-studio.png",
+    "sha256": "768560871189888d7f7c896f756e77292ac5ae462f734d4421b325c634da3eb6",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/pastel-flower-hatbox.png",
+    "sha256": "c8d6ab5b0fa5000e7532138703b16bcfe842dc3f53fa858ff9bc1cebaac05844",
+    "referenceOnly": false
+  },
+  {
+    "source": "about/florist-at-work.png",
+    "sha256": "c912cf280b7b8cb52464bca98cc3c3b85275a0b5424e30ef29873bdd98c69a82",
+    "referenceOnly": false
+  },
+  {
+    "source": "contact/paris-flower-boutique.png",
+    "sha256": "990ddad89ad63a0938c833075296239339a8b7058290874e904507b1e48bae49",
+    "referenceOnly": false
+  },
+  {
+    "source": "wedding/bride-with-pastel-bouquet.png",
+    "sha256": "a0a6d3b6f94701ceff4bd6419de2c06ca6c65293643d03cd10a7cae40ba51afe",
+    "referenceOnly": false
+  },
+  {
+    "source": "home/pastel-bouquet-hero.png",
+    "sha256": "2746247a8582f8ac50c111cb70ddbad7b4142cacc39df47d39871db6ba7ce8de",
+    "referenceOnly": false
+  },
+  {
+    "source": "home/seasonal-flower-subscription.png",
+    "sha256": "a88d2e4579a76e4788b0b2a606a2af10d168f1a3aa829523d18380b4567aa81f",
+    "referenceOnly": false
+  },
+  {
+    "source": "about/handcrafted-floral-arrangement.png",
+    "sha256": "5cb116a0ec132f2146a7c8ddb3e8602a87cca8dac366847ae1a6b37217be49c8",
+    "referenceOnly": false
+  },
+  {
+    "source": "about/thoughtfully-wrapped-bouquet.png",
+    "sha256": "21091e1052abbeaafa294928a866f9a4afd0813e44da85774a8f3acf71484b55",
+    "referenceOnly": false
+  },
+  {
+    "source": "wedding/seaside-ceremony-flowers.png",
+    "sha256": "49e8c90ed8b8fc3fe4c4d2659e0df11bfe10f4e9ad341da244e684fdf4775e04",
+    "referenceOnly": false
+  },
+  {
+    "source": "wedding/floral-design-consultation.png",
+    "sha256": "3a27dd5b8a73e9714a464941db7d90298664e2586dfe2774aabd21e763b32152",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/pastel-garden-bouquet.png",
+    "sha256": "101c8b4878c93826231dd9d74f6b0584fe9b14ee847e463cd9ab7aa1d0a4aed1",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/blush-serenity.png",
+    "sha256": "fadcb7ce18812da0aecb1faefdd2f34fb6a87cc731aded5372f3a170f837543d",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/everlasting-love.png",
+    "sha256": "0d09e2c4bd6116f707e4bf6f88c72c338572179c02db9565f2fac38edf5d6fca",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/pure-elegance.png",
+    "sha256": "310c8105c50222fff7e7d47c8753a1bb30a992489e32c6d4f3da1c14d61d4d00",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/sunlit-meadow.png",
+    "sha256": "d2892f66cbb5b58ae84111d349c565fcddc607437fe47b95643a762178956902",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/happy-day.png",
+    "sha256": "85de4f9a557d0650bd5ab8fef41be5eb813bdac23deba875ad9a74ee5a4ba891",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/sweet-romance.png",
+    "sha256": "d241007bab9fc9b20ed0f71df03a69671e1935baa46e187e6866ac55a3a30ef7",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/cotton-cloud.png",
+    "sha256": "abd6b62bf32798173d2ca28092ea393b780a9b53010037c131422b97f38f11c9",
+    "referenceOnly": false
+  },
+  {
+    "source": "products/garden-bliss.png",
+    "sha256": "91f99c22400d63e2cc4c6c5fed78d702cd1a56a274c56a566699bad5c523f1e3",
+    "referenceOnly": false
+  },
+  {
+    "source": "wedding/candlelit-reception-centerpieces.png",
+    "sha256": "01346829243c154b658a1bee56fbc60a8602b545e4e136ff532ed418947ad895",
+    "referenceOnly": false
+  },
+  {
+    "source": "wedding/romantic-seaside-floral-arch.png",
+    "sha256": "ba4be669d733c51e650b3af6f1e4880bc3b5304c89b8388ef52e5f02cd7a2f67",
+    "referenceOnly": false
+  },
+  {
+    "source": "brand/primary-wordmark.png",
+    "sha256": "a45307cb7f3c3c610999b0d62798bba4e82e9efb1a0a45fadd26cafd7bca4e78",
+    "referenceOnly": false
+  },
+  {
+    "source": "brand/stacked-wordmark.png",
+    "sha256": "89d0a8c0842a7522968cd546aae40505b72262ee58e1742e73fd2e92c8b7c679",
+    "referenceOnly": false
+  },
+  {
+    "source": "brand/botanical-crest.png",
+    "sha256": "7f2fa897218878312e323390d05dd562fdf0f61cec725bbca105c7c5d9000d0d",
+    "referenceOnly": false
+  },
+  {
+    "source": "brand/blush-flower-app-icon.png",
+    "sha256": "cd6d1db586f0ac99b07204ac400c238c0918eeb3d6e9a5ce841594270e65825f",
+    "referenceOnly": false
+  },
+  {
+    "source": "reference-only/icon-sheets/service-icons.png",
+    "sha256": "35e7a90ac2347e6c5d8364464f080acc62d50e0a878f853a2d402f12665ed08e",
+    "referenceOnly": true
+  },
+  {
+    "source": "reference-only/icon-sheets/navigation-icons.png",
+    "sha256": "5508d5f190f7a4c6d97c92abcc0e39538a6fa247acff24e220d7832675eb034e",
+    "referenceOnly": true
+  },
+  {
+    "source": "reference-only/icon-sheets/social-icons.png",
+    "sha256": "659d7238cf5756309b06319626cf1435f768bf5a4194c88db2ca80f43b443706",
+    "referenceOnly": true
+  },
+  {
+    "source": "decorative/pink-botanical-corner.png",
+    "sha256": "a3277ec121e230f00fc2c4632352d9f18ed5f6d9e06cb16cf63d49a1ac2f4383",
+    "referenceOnly": false
+  },
+  {
+    "source": "decorative/floating-rose-petals.png",
+    "sha256": "96279e8c41fbed143c952e5d314c2bc11f4493bc602ab15dea7c263496b879c4",
+    "referenceOnly": false
+  },
+  {
+    "source": "reference-only/moodboards/floral-asset-board.png",
+    "sha256": "7faebe7e730374bd9dd433a1936a58e5ae1e868f00f570a4cc37948cade5cf45",
+    "referenceOnly": true
+  },
+  {
+    "source": "reference-only/moodboards/floral-collection-board.png",
+    "sha256": "619177cff1e23cba6c360ae040dfc136c36f3fbe292eb7ec60b69f847c16597e",
+    "referenceOnly": true
+  },
+  {
+    "source": "reference-only/moodboards/editorial-asset-moodboard.png",
+    "sha256": "98a6fa49b5fb7e4b35359a4a76d90d9a2e3b7ca272db161c4d5902b4e1de6d8d",
+    "referenceOnly": true
+  },
+  {
+    "source": "reference-only/moodboards/floral-brand-moodboard.png",
+    "sha256": "22e1422d437ff62d5388009160e0272631262c3e20781468d115ec18f2cf8d78",
+    "referenceOnly": true
+  },
+  {
+    "source": "reference-only/moodboards/pastel-brand-gallery.png",
+    "sha256": "255ee3f4868558d7d23630b2f5fe5d8971d6c40d91b852215b0defd84d7f1ed1",
+    "referenceOnly": true
+  },
+  {
+    "source": "reference-only/moodboards/pastel-commerce-moodboard.png",
+    "sha256": "31e95ce4a32cbbcaa31434c2e4186fe9fe6033fcab269176fd77ee02fadf960b",
+    "referenceOnly": true
+  }
+]

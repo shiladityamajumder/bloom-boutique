@@ -1,0 +1,86 @@
+[
+  {
+    "key": "golden-hour",
+    "source": "products/golden-hour.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": null,
+    "prompt": "Use case: product-mockup. Asset type: standalone premium florist catalogue photograph for L’Âme des Fleurs, bouquet named golden-hour. Subject: An airy hand-tied bouquet of buttery golden yellow garden roses, white daisies with golden centers and fresh sage-green foliage; golden-yellow blooms dominate, no pink roses. Wrapped in pale ivory tissue with a muted honey satin ribbon. Scene: warm ivory marble counter in a softly blurred Parisian flower atelier, cream arched window, diffused natural morning light. Composition: one entire bouquet centered and fully visible including flowers, wrap, bow and stems, square photograph, generous 8 percent breathing room around the arrangement. Photorealistic editorial product photography, refined natural texture, realistic botanical structure, elegant soft contrast, harmonious with a blush and ivory luxury website. Constraints: ONE independently generated cohesive photograph. No collage, no grid, no contact sheet, no split panels, no crop from another image. No text, no logos, no watermark, no people."
+  },
+  {
+    "key": "petal-poetry",
+    "source": "products/petal-poetry.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": null,
+    "prompt": "Use case: product-mockup. Asset type: standalone premium florist catalogue photograph for L’Âme des Fleurs, bouquet named petal-poetry. Subject: An abundant sculptural bouquet of ruffled blush garden roses, mauve lisianthus, pale lavender sweet peas and delicate dusty pink astrantia. Soft romantic mauve and pink palette. Wrapped in soft pink tissue with a dusty mauve satin ribbon. Scene: warm ivory marble counter in a softly blurred Parisian flower atelier, cream arched window, diffused natural morning light. Composition: one entire bouquet centered and fully visible including flowers, wrap, bow and stems, square photograph, generous 8 percent breathing room around the arrangement. Photorealistic editorial product photography, refined natural texture, realistic botanical structure, elegant soft contrast, harmonious with a blush and ivory luxury website. Constraints: ONE independently generated cohesive photograph. No collage, no grid, no contact sheet, no split panels, no crop from another image. No text, no logos, no watermark, no people."
+  },
+  {
+    "key": "morning-light",
+    "source": "products/morning-light.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": null,
+    "prompt": "Use case: product-mockup. Asset type: standalone premium florist catalogue photograph for L’Âme des Fleurs, bouquet named morning-light. Subject: A small loose natural meadow bouquet of cream roses, abundant white daisies with sunny centers and silver eucalyptus, with a few pale lemon seasonal blooms. Cream-white and subtle lemon palette. Wrapped in ivory tissue with a champagne satin ribbon. No lilies or pink roses. Scene: warm ivory marble counter in a softly blurred Parisian flower atelier, cream arched window, diffused natural morning light. Composition: one entire bouquet centered and fully visible including flowers, wrap, bow and stems, square photograph, generous 8 percent breathing room around the arrangement. Photorealistic editorial product photography, refined natural texture, realistic botanical structure, elegant soft contrast, harmonious with a blush and ivory luxury website. Constraints: ONE independently generated cohesive photograph. No collage, no grid, no contact sheet, no split panels, no crop from another image. No text, no logos, no watermark, no people."
+  },
+  {
+    "key": "blue-reverie",
+    "source": "products/blue-reverie.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": null,
+    "prompt": "Use case: product-mockup. Asset type: standalone premium florist catalogue photograph for L’Âme des Fleurs, bouquet named blue-reverie. Subject: An abundant tall luxurious bouquet dominated by powder-blue hydrangeas and deep periwinkle-blue delphinium spires, accented with a small number of pale ivory premium roses. Distinct cool blue composition, blue blooms dominate. Wrapped in powder-blue tissue with a silvery-blue satin ribbon. Scene: warm ivory marble counter in a softly blurred Parisian flower atelier, cream arched window, diffused natural morning light. Composition: one entire bouquet centered and fully visible including flowers, wrap, bow and stems, square photograph, generous 8 percent breathing room around the arrangement. Photorealistic editorial product photography, refined natural texture, realistic botanical structure, elegant soft contrast, harmonious with a blush and ivory luxury website. Constraints: ONE independently generated cohesive photograph. No collage, no grid, no contact sheet, no split panels, no crop from another image. No text, no logos, no watermark, no people."
+  },
+  {
+    "key": "happy-day-detail",
+    "source": "products/details/happy-day-detail.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": "products/happy-day.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: independently photographed botanical detail for the happy-day bouquet at L’Âme des Fleurs. Input image role: floral identity reference only, not an edit target. Create one new square editorial photograph, a close three-quarter view of the flower heads in a bouquet containing golden-yellow gerberas, apricot roses, white daisies, a few sky-blue delphinium spires and eucalyptus. Match the species, colors and flower combinations in the reference, with realistic delicate petals, soft morning window light, a softly blurred ivory Parisian atelier background and a glimpse of blush wrapping at the lower edge. Different camera position and optical depth than the reference. The bouquet's flowers are the hero, no generic unrelated blooms. Must be one standalone cohesive photo, generated independently, never extracted or cropped from the reference; no collage, grid, text, brand marks or watermark."
+  },
+  {
+    "key": "sweet-romance-detail",
+    "source": "products/details/sweet-romance-detail.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": "products/sweet-romance.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: independently photographed botanical detail for the sweet-romance bouquet at L’Âme des Fleurs. Input image role: floral identity reference only, not an edit target. Create one new square editorial photograph, a close three-quarter view of the flower heads in a bouquet containing blush pink roses, ruffled pink carnations, tiny white daisies and fresh eucalyptus. Match the species, colors and flower combinations in the reference, with realistic delicate petals, soft morning window light, a softly blurred ivory Parisian atelier background and a glimpse of blush wrapping at the lower edge. Different camera position and optical depth than the reference. The bouquet's flowers are the hero, no generic unrelated blooms. Must be one standalone cohesive photo, generated independently, never extracted or cropped from the reference; no collage, grid, text, brand marks or watermark."
+  },
+  {
+    "key": "cotton-cloud-detail",
+    "source": "products/details/cotton-cloud-detail.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": "products/cotton-cloud.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: independently photographed botanical detail for the cotton-cloud bouquet at L’Âme des Fleurs. Input image role: floral identity reference only, not an edit target. Create one new square editorial photograph, a close three-quarter view of the flower heads in a bouquet containing creamy white hydrangeas, ivory lisianthus, pale blush roses and airy baby's-breath. Match the species, colors and flower combinations in the reference, with realistic delicate petals, soft morning window light, a softly blurred ivory Parisian atelier background and a glimpse of blush wrapping at the lower edge. Different camera position and optical depth than the reference. The bouquet's flowers are the hero, no generic unrelated blooms. Must be one standalone cohesive photo, generated independently, never extracted or cropped from the reference; no collage, grid, text, brand marks or watermark."
+  },
+  {
+    "key": "garden-bliss-detail",
+    "source": "products/details/garden-bliss-detail.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": "products/garden-bliss.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: independently photographed botanical detail for the garden-bliss bouquet at L’Âme des Fleurs. Input image role: floral identity reference only, not an edit target. Create one new square editorial photograph, a close three-quarter view of the flower heads in a bouquet containing sky-blue delphinium spires, white hydrangeas, pale blush pink roses and eucalyptus. Match the species, colors and flower combinations in the reference, with realistic delicate petals, soft morning window light, a softly blurred ivory Parisian atelier background and a glimpse of blush wrapping at the lower edge. Different camera position and optical depth than the reference. The bouquet's flowers are the hero, no generic unrelated blooms. Must be one standalone cohesive photo, generated independently, never extracted or cropped from the reference; no collage, grid, text, brand marks or watermark."
+  },
+  {
+    "key": "golden-hour-detail",
+    "source": "products/details/golden-hour-detail.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": "products/golden-hour.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: standalone premium botanical detail photograph for golden-hour bouquet at L’Âme des Fleurs. Input image role: identity reference for flowers and colors only, not an edit target. Create an independently generated square editorial photograph of a close three-quarter view of a bouquet with buttery golden yellow garden roses, white daisies and sage-green foliage. Match the reference arrangement's flower species, proportions, palette and wrapping. Use a different camera angle, shallow photographic depth of field, softly blurred ivory Parisian atelier behind it, warm diffused daylight, realistic petal textures and natural colors. Focus on the flower heads, with a glimpse of the same wrapping below. ONE cohesive scene, no collage, montage or grid. Do not extract, crop or reuse pixels from the supplied photograph. No text, logos, people or watermark."
+  },
+  {
+    "key": "petal-poetry-detail",
+    "source": "products/details/petal-poetry-detail.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": "products/petal-poetry.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: standalone premium botanical detail photograph for petal-poetry bouquet at L’Âme des Fleurs. Input image role: identity reference for flowers and colors only, not an edit target. Create an independently generated square editorial photograph of a close three-quarter view of a bouquet with ruffled blush garden roses, mauve lisianthus, pale lavender sweet peas and dusty pink astrantia. Match the reference arrangement's flower species, proportions, palette and wrapping. Use a different camera angle, shallow photographic depth of field, softly blurred ivory Parisian atelier behind it, warm diffused daylight, realistic petal textures and natural colors. Focus on the flower heads, with a glimpse of the same wrapping below. ONE cohesive scene, no collage, montage or grid. Do not extract, crop or reuse pixels from the supplied photograph. No text, logos, people or watermark."
+  },
+  {
+    "key": "morning-light-detail",
+    "source": "products/details/morning-light-detail.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": "products/morning-light.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: standalone premium botanical detail photograph for morning-light bouquet at L’Âme des Fleurs. Input image role: identity reference for flowers and colors only, not an edit target. Create an independently generated square editorial photograph of a close three-quarter view of a bouquet with cream roses, abundant white daisies with golden centers, subtle lemon blooms and silver eucalyptus. Match the reference arrangement's flower species, proportions, palette and wrapping. Use a different camera angle, shallow photographic depth of field, softly blurred ivory Parisian atelier behind it, warm diffused daylight, realistic petal textures and natural colors. Focus on the flower heads, with a glimpse of the same wrapping below. ONE cohesive scene, no collage, montage or grid. Do not extract, crop or reuse pixels from the supplied photograph. No text, logos, people or watermark."
+  },
+  {
+    "key": "blue-reverie-detail",
+    "source": "products/details/blue-reverie-detail.png",
+    "mode": "built-in image_gen.imagegen / generate",
+    "reference": "products/blue-reverie.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: standalone premium botanical detail photograph for blue-reverie bouquet at L’Âme des Fleurs. Input image role: identity reference for flowers and colors only, not an edit target. Create an independently generated square editorial photograph of a close three-quarter view of a bouquet with powder-blue hydrangeas, deep periwinkle-blue delphinium and a few ivory roses. Match the reference arrangement's flower species, proportions, palette and wrapping. Use a different camera angle, shallow photographic depth of field, softly blurred ivory Parisian atelier behind it, warm diffused daylight, realistic petal textures and natural colors. Focus on the flower heads, with a glimpse of the same wrapping below. ONE cohesive scene, no collage, montage or grid. Do not extract, crop or reuse pixels from the supplied photograph. No text, logos, people or watermark."
+  }
+]

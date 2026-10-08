@@ -1,0 +1,39 @@
+{
+  "name": "lame-des-fleurs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "test": "playwright test",
+    "test:mobile": "playwright test tests/mobile.spec.ts",
+    "screenshots": "node scripts/capture-screenshots.mjs",
+    "assets:prepare": "node scripts/prepare-assets.mjs",
+    "assets:import": "node scripts/import-assets.mjs",
+    "format": "prettier --write src tests scripts/*.mjs *.ts *.mjs *.json docs README.md",
+    "typecheck": "tsc --noEmit",
+    "test:a11y": "node scripts/check-accessibility.mjs"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/manrope": "^5.3.0",
+    "lucide-react": "1.52.0",
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "sharp": "^0.35.5"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^24.7.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "eslint": "^9.37.0",
+    "eslint-config-next": "16.4.0",
+    "prettier": "^3.9.9",
+    "typescript": "^5.9.3"
+  }
+}

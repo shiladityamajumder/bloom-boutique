@@ -1,0 +1,965 @@
+/* Images (4): floral signup, sweeping ivory edge, five columns and assurances. */
+.footer-region {
+  position: relative;
+}
+.newsletter--reference {
+  min-height: 350px;
+  padding: 70px 0 100px;
+  background: linear-gradient(110deg, #fff4f6, #fbeef2 68%, #edf2f8);
+}
+.newsletter--reference::before {
+  inset: 0 auto auto -50px;
+  width: 850px;
+  height: 350px;
+  background: url("/images/decorative/floating-rose-petals.webp") center /
+    contain no-repeat;
+  opacity: 0.38;
+}
+.newsletter--reference::after {
+  width: 88%;
+  height: 155%;
+  top: -43%;
+  right: auto;
+  bottom: auto;
+  left: -13%;
+  border-radius: 0 58% 58% 0;
+  background: #fff6f8;
+  opacity: 0.76;
+  mix-blend-mode: normal;
+}
+.newsletter--reference .newsletter__flowers {
+  top: -32px;
+  right: -55px;
+  width: 600px;
+  height: 410px;
+  opacity: 1;
+  transform: none;
+  z-index: 1;
+}
+.newsletter--reference .newsletter__flowers img {
+  object-fit: contain;
+  object-position: right center;
+}
+.newsletter--reference .newsletter__inner {
+  grid-template-columns: minmax(0, 1.16fr) minmax(0, 1fr);
+  gap: 40px;
+  padding-right: 220px;
+  z-index: 2;
+}
+.newsletter--reference .newsletter__inner > div:first-child {
+  max-width: none;
+}
+.newsletter--reference h2 {
+  font-size: clamp(44px, 4.18vw, 70px);
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+  margin: 13px 0 16px;
+  max-width: none;
+}
+.newsletter--reference p:not(.eyebrow) {
+  font-size: 19px;
+  line-height: 1.45;
+  max-width: 570px;
+}
+.newsletter--reference .eyebrow {
+  font-size: 13px;
+  letter-spacing: 0.35em;
+  margin: 0;
+}
+.newsletter--reference form {
+  padding-top: 48px;
+  transform: translateY(20px);
+}
+.newsletter--reference .newsletter-field {
+  gap: 18px;
+  background: #fffaface;
+  border-color: #c8bec8;
+  padding-left: 28px;
+}
+.newsletter--reference .newsletter-field input {
+  font-size: 15px;
+  padding-block: 19px;
+}
+.newsletter--reference .newsletter-field .button {
+  min-width: 174px;
+  min-height: 60px;
+  font-size: 15px;
+  background: linear-gradient(105deg, #d36b81, #c25771);
+}
+.newsletter--reference .consent {
+  font-size: 13px;
+  line-height: 1.55;
+  margin: 13px 22px 0;
+}
+.newsletter--reference .consent input {
+  width: 18px;
+  height: 18px;
+}
+.site-footer--reference {
+  margin-top: -44px;
+  padding-top: 70px;
+  border-radius: 130px 130px 0 0 / 72px 72px 0 0;
+  background: linear-gradient(150deg, #fffbfc, #fff8fa);
+  z-index: 2;
+}
+.site-footer--reference .site-shell {
+  width: min(calc(100% - 8.7vw), 1540px);
+}
+.site-footer--reference::before {
+  right: -115px;
+  bottom: -145px;
+  width: 390px;
+  height: 430px;
+  background: url("/images/decorative/newsletter-floral-corner.webp") center /
+    contain no-repeat;
+  opacity: 0.29;
+}
+.site-footer--reference::after {
+  content: "";
+  position: absolute;
+  left: -160px;
+  bottom: -95px;
+  width: 820px;
+  height: 430px;
+  background: url("/images/decorative/floating-rose-petals.webp") center /
+    contain no-repeat;
+  opacity: 0.3;
+  filter: blur(3px);
+  z-index: -1;
+  pointer-events: none;
+}
+.site-footer--reference .footer-grid {
+  grid-template-columns: minmax(300px, 1.85fr) 0.78fr 0.92fr 1.02fr 1.3fr;
+  gap: 38px;
+  padding-bottom: 38px;
+}
+.site-footer--reference .footer-brand {
+  display: block;
+  grid-column: auto;
+}
+.site-footer--reference .brand-logo {
+  gap: 16px;
+}
+.site-footer--reference .brand-logo__name {
+  font-size: clamp(36px, 3.05vw, 52px);
+}
+.site-footer--reference .brand-logo__mark {
+  width: 65px;
+  height: 80px;
+  object-fit: contain;
+}
+.site-footer--reference .brand-logo__tagline {
+  font-size: 7px;
+  letter-spacing: 0.2em;
+}
+.site-footer--reference .footer-brand > p {
+  font-size: 18px;
+  line-height: 1.45;
+  max-width: 400px;
+  margin: 27px 0 26px;
+}
+.site-footer--reference .footer-connect {
+  gap: 20px;
+  margin: 0;
+}
+.site-footer--reference .footer-connect a {
+  width: 46px;
+  height: 46px;
+  color: #b24963;
+  background: #fce3e9;
+}
+.site-footer--reference .footer-grid h3 {
+  font-size: 29px;
+  margin-bottom: 30px;
+  white-space: nowrap;
+}
+.site-footer--reference .footer-grid h3::after {
+  width: 40px;
+  height: 2px;
+  bottom: -13px;
+}
+.site-footer--reference .footer-links li {
+  font-size: 15px;
+  padding-block: 4px;
+  line-height: 1.65;
+}
+.site-footer--reference .footer-contact {
+  display: block;
+  grid-column: auto;
+  padding: 0 0 0 28px;
+  border-top: 0;
+  border-left: 1px solid var(--line);
+}
+.site-footer--reference .footer-contact > p,
+.site-footer--reference .footer-contact > a {
+  font-size: 16px;
+  gap: 17px;
+  margin-bottom: 18px;
+  line-height: 1.45;
+}
+.site-footer--reference .footer-contact svg {
+  width: 44px;
+  height: 44px;
+  padding: 11px;
+  flex-shrink: 0;
+  color: #b24b64;
+}
+.site-footer--reference .footer-contact small {
+  display: block;
+  margin-top: 3px;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+.footer-assurances {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) minmax(0, 1.25fr) minmax(
+      290px,
+      1.75fr
+    );
+  align-items: center;
+  border-top: 1px solid var(--line);
+  padding-block: 27px;
+}
+.footer-promise {
+  display: flex;
+  align-items: center;
+  gap: 17px;
+  padding-inline: 20px;
+  border-right: 1px solid var(--line);
+}
+.footer-promise:first-child {
+  padding-left: 0;
+}
+.footer-promise__icon {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: #fce3e9;
+}
+.footer-promise p {
+  margin: 0 0 6px;
+  font-size: 16px;
+  line-height: 1.25;
+  max-width: 135px;
+}
+.footer-promise small {
+  display: block;
+  font-size: 11px;
+  color: var(--ink-soft);
+  line-height: 1.35;
+}
+.footer-payments {
+  padding-left: 26px;
+}
+.footer-payments h3 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.payment-marks {
+  display: flex;
+  gap: 7px;
+  width: 100%;
+  max-width: 390px;
+}
+.payment-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  flex: 1;
+  height: 37px;
+  padding-inline: 7px;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  font-size: 16px;
+  background: #fffafbbd;
+  color: #10131b;
+}
+.payment-mark--visa {
+  font-weight: 900;
+  font-style: italic;
+  letter-spacing: -0.07em;
+  color: #123f87;
+}
+.payment-mark--paypal {
+  font-size: 13px;
+  font-weight: 800;
+  font-style: italic;
+  color: #005db0;
+}
+.payment-mark--apple {
+  gap: 2px;
+  font-weight: 700;
+}
+.payment-mark--google {
+  gap: 2px;
+  font-size: 14px;
+}
+.payment-mark--google b {
+  font-size: 18px;
+  font-weight: 800;
+  background: conic-gradient(
+    #4285f4 0 25%,
+    #34a853 25% 44%,
+    #fbbc05 44% 65%,
+    #ea4335 65% 83%,
+    #4285f4 83%
+  );
+  background-clip: text;
+  color: transparent;
+}
+.footer-payments > small {
+  display: block;
+  margin-top: 7px;
+  font-size: 10px;
+  line-height: 1.4;
+  color: var(--ink-soft);
+}
+.site-footer--reference .footer-bottom {
+  font-size: 12px;
+  padding-block: 24px;
+  gap: 24px;
+}
+.site-footer--reference .footer-bottom > div {
+  gap: 0;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.footer-bottom > div > a,
+.footer-bottom > div > button {
+  min-height: 32px;
+  display: inline-flex;
+  align-items: center;
+  padding-inline: 24px;
+  border-right: 1px solid #c9bdc5;
+  line-height: 1.2;
+}
+.footer-preferences {
+  background: transparent;
+  color: inherit;
+  font-size: inherit;
+  cursor: pointer;
+}
+.footer-bottom select {
+  margin-left: 24px;
+  background: transparent;
+  border: 0;
+  color: inherit;
+  font-size: inherit;
+  padding: 6px 3px;
+}
+.privacy-dialog {
+  width: min(520px, calc(100% - 36px));
+  max-height: calc(100dvh - 50px);
+  padding: 38px;
+  background: #fffafb;
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  box-shadow: 0 24px 80px #26364b24;
+}
+.privacy-dialog:not([open]) {
+  display: none;
+}
+.privacy-dialog::backdrop {
+  background: #1f2a3b75;
+  backdrop-filter: blur(5px);
+}
+.privacy-dialog > svg {
+  color: #b24963;
+  margin-bottom: 12px;
+}
+.privacy-dialog h2 {
+  font-size: 36px;
+  margin: 8px 0 18px;
+}
+.privacy-dialog p:not(.eyebrow) {
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+.privacy-dialog p a {
+  text-decoration: underline;
+}
+.privacy-dialog .text-link {
+  margin-bottom: 24px;
+}
+.privacy-dialog .button {
+  width: 100%;
+}
+.privacy-dialog__close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  background: transparent;
+}
+
+/* Photo selection is visible in both the main stage and the enlarged view. */
+.product-thumbs button {
+  cursor: pointer;
+  position: relative;
+}
+.product-thumbs .photo {
+  pointer-events: none;
+}
+.product-gallery .product-main-photo[data-photo-view="detail"] > .photo img {
+  object-fit: contain;
+}
+.gallery-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: #fffafae8;
+  color: var(--ink);
+  display: grid;
+  place-items: center;
+  z-index: 2;
+  box-shadow: 0 4px 16px #45344c15;
+}
+.gallery-arrow--previous {
+  left: 14px;
+}
+.gallery-arrow--next {
+  right: 14px;
+}
+.gallery-loading {
+  position: absolute;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 8px 14px;
+  border-radius: 99px;
+  background: #fffafae8;
+  color: var(--ink-soft);
+  white-space: nowrap;
+  font-size: 12px;
+}
+.gallery-error {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  background: #fff6f8;
+}
+.gallery-error p {
+  font-size: 16px;
+}
+.bouquet-lightbox {
+  width: 100%;
+  height: 100dvh;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  border: 0;
+}
+.bouquet-lightbox::backdrop {
+  background: #182536b0;
+}
+.bouquet-lightbox .lightbox-close {
+  top: 16px;
+  right: 20px;
+  width: 44px;
+  height: 44px;
+}
+.bouquet-lightbox .lightbox-previous,
+.bouquet-lightbox .lightbox-next {
+  top: 50%;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #fffafae8;
+  color: var(--ink);
+  transform: translateY(-50%);
+}
+.bouquet-lightbox .lightbox-previous {
+  left: 20px;
+  right: auto;
+}
+.bouquet-lightbox .lightbox-next {
+  right: 20px;
+}
+.lightbox-caption {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  font-size: 13px;
+  text-transform: capitalize;
+}
+@media (hover: hover) and (pointer: fine) {
+  .gallery-arrow {
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+  .product-main-photo:hover .gallery-arrow,
+  .product-main-photo:focus-within .gallery-arrow {
+    opacity: 1;
+  }
+}
+@media (max-width: 1300px) {
+  .newsletter--reference .newsletter__inner {
+    padding-right: 120px;
+    gap: 28px;
+  }
+  .newsletter--reference .newsletter__flowers {
+    right: -130px;
+  }
+  .newsletter--reference p:not(.eyebrow) {
+    font-size: 16px;
+  }
+  .site-footer--reference .footer-grid {
+    grid-template-columns: minmax(270px, 1.7fr) 0.8fr 0.9fr 1.05fr 1.35fr;
+    gap: 24px;
+  }
+  .site-footer--reference .brand-logo {
+    gap: 12px;
+  }
+  .site-footer--reference .brand-logo__mark {
+    width: 48px;
+    height: 65px;
+  }
+  .site-footer--reference .brand-logo__tagline {
+    font-size: 5.5px;
+  }
+  .site-footer--reference .footer-brand > p {
+    font-size: 16px;
+  }
+  .site-footer--reference .footer-grid h3 {
+    font-size: 25px;
+  }
+  .site-footer--reference .footer-links li {
+    font-size: 12px;
+  }
+  .site-footer--reference .footer-contact {
+    padding-left: 18px;
+  }
+  .site-footer--reference .footer-contact > p,
+  .site-footer--reference .footer-contact > a {
+    font-size: 12px;
+    gap: 11px;
+  }
+  .site-footer--reference .footer-contact svg {
+    width: 36px;
+    height: 36px;
+    padding: 9px;
+  }
+  .site-footer--reference .footer-contact small {
+    font-size: 10px;
+  }
+  .footer-promise {
+    padding-inline: 12px;
+    gap: 10px;
+  }
+  .footer-promise__icon {
+    width: 43px;
+    height: 43px;
+  }
+  .footer-promise p {
+    font-size: 13px;
+  }
+  .footer-promise small {
+    font-size: 10px;
+  }
+  .footer-assurances {
+    grid-template-columns: repeat(4, minmax(0, 1fr)) 290px;
+  }
+  .footer-payments {
+    padding-left: 18px;
+  }
+  .payment-marks {
+    gap: 5px;
+  }
+  .payment-mark {
+    padding-inline: 4px;
+  }
+}
+@media (max-width: 1050px) {
+  .newsletter--reference .newsletter__inner {
+    padding-right: 50px;
+  }
+  .newsletter--reference h2 {
+    font-size: 44px;
+  }
+  .newsletter--reference .newsletter-field .button {
+    min-width: 132px;
+    padding-inline: 20px;
+  }
+  .site-footer--reference .footer-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr)) 1.3fr;
+    gap: 25px;
+  }
+  .site-footer--reference .footer-brand {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1fr 1.2fr auto;
+    gap: 30px;
+    align-items: center;
+  }
+  .site-footer--reference .footer-brand > p {
+    margin: 0;
+  }
+  .site-footer--reference .brand-logo__name {
+    font-size: 35px;
+  }
+  .site-footer--reference .footer-connect {
+    gap: 10px;
+  }
+  .site-footer--reference .footer-contact {
+    padding-left: 16px;
+  }
+  .footer-assurances {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 24px 0;
+  }
+  .footer-promise:last-of-type {
+    border: 0;
+  }
+  .footer-payments {
+    grid-column: 1 / -1;
+    border-top: 1px solid var(--line);
+    padding: 22px 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 14px 22px;
+  }
+  .footer-payments h3 {
+    margin: 0;
+  }
+  .footer-payments > small {
+    flex-basis: 100%;
+    text-align: center;
+    margin: 0;
+  }
+  .site-footer--reference .footer-bottom {
+    flex-wrap: wrap;
+  }
+  .footer-bottom > div > a:first-child {
+    padding-left: 0;
+  }
+}
+@media (max-width: 800px) {
+  .newsletter--reference {
+    padding: 50px 0 94px;
+    min-height: 0;
+  }
+  .newsletter--reference .newsletter__inner {
+    grid-template-columns: 1fr;
+    padding-right: 0;
+    gap: 26px;
+  }
+  .newsletter--reference .newsletter__flowers {
+    width: 420px;
+    height: 340px;
+    right: -150px;
+    top: -45px;
+    opacity: 0.35;
+  }
+  .newsletter--reference .newsletter__inner > div:first-child {
+    max-width: 590px;
+  }
+  .newsletter--reference form {
+    padding: 0;
+    transform: none;
+    max-width: 620px;
+  }
+  .newsletter--reference h2 {
+    font-size: 50px;
+  }
+  .newsletter--reference p:not(.eyebrow) {
+    max-width: 500px;
+  }
+  .site-footer--reference {
+    border-radius: 65px 65px 0 0 / 45px 45px 0 0;
+    padding-top: 52px;
+  }
+  .site-footer--reference .site-shell {
+    width: calc(100% - 36px);
+  }
+  .site-footer--reference .footer-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 30px 24px;
+  }
+  .site-footer--reference .footer-brand {
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 30px;
+  }
+  .site-footer--reference .footer-brand > p {
+    font-size: 16px;
+  }
+  .site-footer--reference .footer-contact {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px 24px;
+    padding: 26px 0 0;
+    border-left: 0;
+    border-top: 1px solid var(--line);
+  }
+  .site-footer--reference .footer-contact h3 {
+    grid-column: 1 / -1;
+    margin-bottom: 14px;
+  }
+  .site-footer--reference .footer-contact > p,
+  .site-footer--reference .footer-contact > a {
+    margin: 0;
+    font-size: 13px;
+  }
+  .site-footer--reference .footer-contact small {
+    font-size: 11px;
+  }
+  .footer-assurances {
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  .footer-promise {
+    padding: 0;
+    border: 0;
+    gap: 14px;
+  }
+  .footer-promise p {
+    font-size: 15px;
+    max-width: none;
+  }
+  .footer-promise small {
+    font-size: 11px;
+  }
+  .footer-promise__icon {
+    width: 48px;
+    height: 48px;
+  }
+  .footer-payments {
+    padding-top: 24px;
+  }
+}
+@media (max-width: 600px) {
+  .newsletter--reference {
+    padding: 48px 0 88px;
+  }
+  .newsletter--reference::after {
+    width: 130%;
+    left: -50%;
+    height: 160%;
+    opacity: 0.6;
+  }
+  .newsletter--reference::before {
+    width: 600px;
+    opacity: 0.22;
+  }
+  .newsletter--reference .newsletter__flowers {
+    width: 350px;
+    height: 320px;
+    right: -180px;
+    top: -50px;
+    opacity: 0.3;
+  }
+  .newsletter--reference h2 {
+    font-size: clamp(38px, 11vw, 49px);
+    max-width: 360px;
+  }
+  .newsletter--reference .eyebrow {
+    font-size: 10px;
+    letter-spacing: 0.3em;
+  }
+  .newsletter--reference p:not(.eyebrow) {
+    font-size: 14px;
+    line-height: 1.6;
+    max-width: 340px;
+  }
+  .newsletter--reference .newsletter-field {
+    padding-left: 14px;
+    gap: 8px;
+  }
+  .newsletter--reference .newsletter-field > svg {
+    width: 18px;
+    flex-shrink: 0;
+  }
+  .newsletter--reference .newsletter-field input {
+    font-size: 16px;
+    padding-block: 16px;
+  }
+  .newsletter--reference .newsletter-field .button {
+    min-width: 110px;
+    min-height: 54px;
+    font-size: 12px;
+    padding-inline: 13px;
+    gap: 8px;
+  }
+  .newsletter--reference .consent {
+    margin: 13px 0 0;
+    font-size: 11px;
+  }
+  .site-footer--reference {
+    border-radius: 50px 50px 0 0 / 34px 34px 0 0;
+    padding-top: 46px;
+  }
+  .site-footer--reference .footer-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 32px 20px;
+    padding-bottom: 32px;
+  }
+  .site-footer--reference .footer-brand {
+    display: block;
+  }
+  .site-footer--reference .brand-logo__name {
+    font-size: clamp(30px, 9.3vw, 40px);
+  }
+  .site-footer--reference .brand-logo__mark {
+    width: 47px;
+    height: 60px;
+  }
+  .site-footer--reference .brand-logo__tagline {
+    font-size: 5px;
+  }
+  .site-footer--reference .footer-brand > p {
+    margin: 20px 0 22px;
+    font-size: 15px;
+    max-width: 360px;
+  }
+  .site-footer--reference .footer-connect {
+    gap: 16px;
+  }
+  .site-footer--reference .footer-grid h3 {
+    font-size: 26px;
+    margin-bottom: 28px;
+  }
+  .site-footer--reference .footer-links li {
+    font-size: 12px;
+    line-height: 1.5;
+    padding-block: 6px;
+  }
+  .site-footer--reference .footer-contact {
+    grid-template-columns: 1fr;
+    padding-top: 24px;
+    gap: 18px;
+  }
+  .site-footer--reference .footer-contact h3 {
+    margin-bottom: 12px;
+  }
+  .site-footer--reference .footer-contact > p,
+  .site-footer--reference .footer-contact > a {
+    font-size: 14px;
+  }
+  .site-footer--reference .footer-contact svg {
+    width: 42px;
+    height: 42px;
+    padding: 10px;
+  }
+  .site-footer--reference .footer-contact small {
+    font-size: 12px;
+  }
+  .footer-assurances {
+    gap: 25px 18px;
+    padding-block: 27px;
+  }
+  .footer-promise {
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .footer-promise__icon {
+    width: 38px;
+    height: 38px;
+  }
+  .footer-promise__icon svg {
+    width: 22px;
+  }
+  .footer-promise p {
+    font-size: 13px;
+  }
+  .footer-promise small {
+    font-size: 10px;
+  }
+  .footer-payments {
+    justify-content: flex-start;
+    gap: 15px;
+  }
+  .footer-payments > small {
+    text-align: left;
+  }
+  .footer-payments h3 {
+    font-size: 26px;
+  }
+  .payment-marks {
+    gap: 6px;
+    width: 100%;
+  }
+  .payment-mark {
+    flex: 1;
+    min-width: 0;
+    padding-inline: 4px;
+  }
+  .site-footer--reference .footer-bottom {
+    gap: 20px;
+    font-size: 11px;
+    padding-block: 25px 30px;
+  }
+  .site-footer--reference .footer-bottom > div {
+    gap: 18px 0;
+  }
+  .footer-bottom > div > a,
+  .footer-bottom > div > button {
+    padding-inline: 13px;
+  }
+  .footer-bottom > div > button {
+    padding-left: 0;
+    border-right: 0;
+  }
+  .footer-bottom select {
+    margin-left: 16px;
+    min-height: 32px;
+  }
+  .privacy-dialog {
+    padding: 30px 24px;
+  }
+  .privacy-dialog h2 {
+    font-size: 31px;
+  }
+  .gallery-arrow {
+    width: 38px;
+    height: 38px;
+  }
+  .gallery-arrow--previous {
+    left: 9px;
+  }
+  .gallery-arrow--next {
+    right: 9px;
+  }
+  .bouquet-lightbox {
+    padding: 60px 14px;
+  }
+  .bouquet-lightbox > .photo {
+    width: 100%;
+    height: 78dvh;
+  }
+  .bouquet-lightbox .lightbox-previous,
+  .bouquet-lightbox .lightbox-next {
+    width: 42px;
+    height: 42px;
+  }
+  .bouquet-lightbox .lightbox-previous {
+    left: 10px;
+  }
+  .bouquet-lightbox .lightbox-next {
+    right: 10px;
+  }
+}

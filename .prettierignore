@@ -1,0 +1,9 @@
+node_modules
+.next
+.npm-cache
+.data
+.test-data
+public
+artifacts
+test-results
+package-lock.json

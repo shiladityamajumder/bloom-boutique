@@ -1,0 +1,359 @@
+[
+  {
+    "source": "brand/floral-wordmark.png",
+    "url": "/images/brand/floral-wordmark.webp",
+    "width": 1100,
+    "height": 367,
+    "generated": false
+  },
+  {
+    "source": "home/sunlit-atelier.png",
+    "url": "/images/home/sunlit-atelier.webp",
+    "width": 1672,
+    "height": 941,
+    "generated": false
+  },
+  {
+    "source": "products/pastel-signature-bouquet.png",
+    "url": "/images/products/pastel-signature-bouquet.webp",
+    "width": 1122,
+    "height": 1402,
+    "generated": false
+  },
+  {
+    "source": "decorative/botanical-outline.png",
+    "url": "/images/decorative/botanical-outline.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": false
+  },
+  {
+    "source": "decorative/rose-petal-scatter.png",
+    "url": "/images/decorative/rose-petal-scatter.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": false
+  },
+  {
+    "source": "products/blush-serenity-studio.png",
+    "url": "/images/products/blush-serenity-studio.webp",
+    "width": 1100,
+    "height": 1375,
+    "generated": false
+  },
+  {
+    "source": "products/sunlit-meadow-studio.png",
+    "url": "/images/products/sunlit-meadow-studio.webp",
+    "width": 1100,
+    "height": 1375,
+    "generated": false
+  },
+  {
+    "source": "products/everlasting-love-studio.png",
+    "url": "/images/products/everlasting-love-studio.webp",
+    "width": 1100,
+    "height": 1375,
+    "generated": false
+  },
+  {
+    "source": "products/pure-elegance-studio.png",
+    "url": "/images/products/pure-elegance-studio.webp",
+    "width": 1100,
+    "height": 1375,
+    "generated": false
+  },
+  {
+    "source": "products/pastel-flower-hatbox.png",
+    "url": "/images/products/pastel-flower-hatbox.webp",
+    "width": 1100,
+    "height": 1375,
+    "generated": false
+  },
+  {
+    "source": "about/florist-at-work.png",
+    "url": "/images/about/florist-at-work.webp",
+    "width": 1672,
+    "height": 941,
+    "generated": false
+  },
+  {
+    "source": "contact/paris-flower-boutique.png",
+    "url": "/images/contact/paris-flower-boutique.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "wedding/bride-with-pastel-bouquet.png",
+    "url": "/images/wedding/bride-with-pastel-bouquet.webp",
+    "width": 1672,
+    "height": 941,
+    "generated": false
+  },
+  {
+    "source": "home/pastel-bouquet-hero.png",
+    "url": "/images/home/pastel-bouquet-hero.webp",
+    "width": 1672,
+    "height": 941,
+    "generated": false
+  },
+  {
+    "source": "home/seasonal-flower-subscription.png",
+    "url": "/images/home/seasonal-flower-subscription.webp",
+    "width": 1100,
+    "height": 619,
+    "generated": false
+  },
+  {
+    "source": "about/handcrafted-floral-arrangement.png",
+    "url": "/images/about/handcrafted-floral-arrangement.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "about/thoughtfully-wrapped-bouquet.png",
+    "url": "/images/about/thoughtfully-wrapped-bouquet.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "wedding/seaside-ceremony-flowers.png",
+    "url": "/images/wedding/seaside-ceremony-flowers.webp",
+    "width": 1100,
+    "height": 619,
+    "generated": false
+  },
+  {
+    "source": "wedding/floral-design-consultation.png",
+    "url": "/images/wedding/floral-design-consultation.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "products/pastel-garden-bouquet.png",
+    "url": "/images/products/pastel-garden-bouquet.webp",
+    "width": 1100,
+    "height": 1375,
+    "generated": false
+  },
+  {
+    "source": "products/blush-serenity.png",
+    "url": "/images/products/blush-serenity.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "products/everlasting-love.png",
+    "url": "/images/products/everlasting-love.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "products/pure-elegance.png",
+    "url": "/images/products/pure-elegance.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "products/sunlit-meadow.png",
+    "url": "/images/products/sunlit-meadow.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "products/happy-day.png",
+    "url": "/images/products/happy-day.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "products/sweet-romance.png",
+    "url": "/images/products/sweet-romance.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "products/cotton-cloud.png",
+    "url": "/images/products/cotton-cloud.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "products/garden-bliss.png",
+    "url": "/images/products/garden-bliss.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "wedding/candlelit-reception-centerpieces.png",
+    "url": "/images/wedding/candlelit-reception-centerpieces.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "wedding/romantic-seaside-floral-arch.png",
+    "url": "/images/wedding/romantic-seaside-floral-arch.webp",
+    "width": 1100,
+    "height": 825,
+    "generated": false
+  },
+  {
+    "source": "brand/primary-wordmark.png",
+    "url": "/images/brand/primary-wordmark.webp",
+    "width": 1100,
+    "height": 367,
+    "generated": false
+  },
+  {
+    "source": "brand/stacked-wordmark.png",
+    "url": "/images/brand/stacked-wordmark.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": false
+  },
+  {
+    "source": "brand/botanical-crest.png",
+    "url": "/images/brand/botanical-crest.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": false
+  },
+  {
+    "source": "brand/blush-flower-app-icon.png",
+    "url": "/images/brand/blush-flower-app-icon.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": false
+  },
+  {
+    "source": "decorative/pink-botanical-corner.png",
+    "url": "/images/decorative/pink-botanical-corner.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": false
+  },
+  {
+    "source": "decorative/floating-rose-petals.png",
+    "url": "/images/decorative/floating-rose-petals.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": false
+  },
+  {
+    "source": "decorative/newsletter-floral-corner.png",
+    "url": "/images/decorative/newsletter-floral-corner.webp",
+    "width": 1100,
+    "height": 733,
+    "generated": true
+  },
+  {
+    "source": "products/details/blush-garden-rose.png",
+    "url": "/images/products/details/blush-garden-rose.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/details/blush-satin-ribbon.png",
+    "url": "/images/products/details/blush-satin-ribbon.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/golden-hour.png",
+    "url": "/images/products/golden-hour.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/petal-poetry.png",
+    "url": "/images/products/petal-poetry.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/morning-light.png",
+    "url": "/images/products/morning-light.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/blue-reverie.png",
+    "url": "/images/products/blue-reverie.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/details/happy-day-detail.png",
+    "url": "/images/products/details/happy-day-detail.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/details/sweet-romance-detail.png",
+    "url": "/images/products/details/sweet-romance-detail.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/details/cotton-cloud-detail.png",
+    "url": "/images/products/details/cotton-cloud-detail.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/details/garden-bliss-detail.png",
+    "url": "/images/products/details/garden-bliss-detail.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/details/golden-hour-detail.png",
+    "url": "/images/products/details/golden-hour-detail.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/details/petal-poetry-detail.png",
+    "url": "/images/products/details/petal-poetry-detail.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/details/morning-light-detail.png",
+    "url": "/images/products/details/morning-light-detail.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  },
+  {
+    "source": "products/details/blue-reverie-detail.png",
+    "url": "/images/products/details/blue-reverie-detail.webp",
+    "width": 1100,
+    "height": 1100,
+    "generated": true
+  }
+]
